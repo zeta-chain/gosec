@@ -10,10 +10,10 @@ require (
 	github.com/onsi/ginkgo/v2 v2.20.2
 	github.com/onsi/gomega v1.34.2
 	github.com/stretchr/testify v1.9.0
-	golang.org/x/crypto v0.27.0
+	golang.org/x/crypto v0.31.0
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
-	golang.org/x/text v0.18.0
+	golang.org/x/text v0.21.0
 	golang.org/x/tools v0.25.0
 	google.golang.org/api v0.198.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -49,8 +49,8 @@ require (
 	golang.org/x/mod v0.21.0 // indirect
 	golang.org/x/net v0.29.0 // indirect
 	golang.org/x/oauth2 v0.23.0 // indirect
-	golang.org/x/sync v0.8.0 // indirect
-	golang.org/x/sys v0.25.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/time v0.6.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240725223205-93522f1f2a9f // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240903143218-8af14fe29dc1 // indirect
